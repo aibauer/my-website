@@ -1,7 +1,7 @@
 
 import React, { Component } from 'react';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Route,
   Link
 } from 'react-router-dom';
@@ -19,7 +19,7 @@ import './Assets/css/default.min.css';
   class App extends Component {
     render() {
       return (
-        <Router>
+        <Router basename = '/'>
           <div className="App">
             <Header />
               <Route exact path='/' component={HomePage} />
