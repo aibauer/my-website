@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.91115d00.chunk.css",
+    "main.js": "/static/js/main.476a2360.chunk.js",
+    "main.js.map": "/static/js/main.476a2360.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8dcc8532.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8dcc8532.js.map",
+    "static/js/2.50fb3f3e.chunk.js": "/static/js/2.50fb3f3e.chunk.js",
+    "static/js/2.50fb3f3e.chunk.js.map": "/static/js/2.50fb3f3e.chunk.js.map",
+    "static/js/3.3069a7aa.chunk.js": "/static/js/3.3069a7aa.chunk.js",
+    "static/js/3.3069a7aa.chunk.js.map": "/static/js/3.3069a7aa.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.91115d00.chunk.css.map": "/static/css/main.91115d00.chunk.css.map",
+    "static/js/2.50fb3f3e.chunk.js.LICENSE.txt": "/static/js/2.50fb3f3e.chunk.js.LICENSE.txt",
+    "static/media/AB.3a3e52d0.jpg": "/static/media/AB.3a3e52d0.jpg",
+    "static/media/Resume.089324e5.pdf": "/static/media/Resume.089324e5.pdf",
+    "static/media/hockey.5ddb8bee.jpg": "/static/media/hockey.5ddb8bee.jpg",
+    "static/media/vis.73fcfe41.jpg": "/static/media/vis.73fcfe41.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dcc8532.js",
+    "static/js/2.50fb3f3e.chunk.js",
+    "static/css/main.91115d00.chunk.css",
+    "static/js/main.476a2360.chunk.js"
+  ]
+}
