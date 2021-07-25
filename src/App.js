@@ -22,7 +22,7 @@ import './Assets/css/default.min.css';
         <Router basename = '/'>
           <div className="App">
             <Header />
-              <Route exact path='/my-website' component={HomePage} />
+              <Route exact path='/my-website/' component={HomePage} />
               <Route exact path='/' component={HomePage} />
               <Route exact path='/About' component={About} />
               <Route exact path='/Projects' component={Projects} />
