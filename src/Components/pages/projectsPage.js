@@ -17,7 +17,7 @@ import proj3 from "./files/ruok.jpg";
             </h1>
           </div>
           <div className ="projContainer">
-            <a onClick={()=> window.open("http://wildlife-tagger.herokuapp.com/", "_blank")}>
+            <a href="http://wildlife-tagger.herokuapp.com/">
             <img src = {proj1} alt="vis" />
             <div>
               <p></p>
@@ -30,7 +30,7 @@ import proj3 from "./files/ruok.jpg";
             </a>
           </div>
           <div className ="projContainer">
-            <a onClick={()=> window.open("https://dwwilson3.github.io/Brain-Tumor-Classification/report_final", "_blank")}>
+            <a href="https://dwwilson3.github.io/Brain-Tumor-Classification/report_final">
             <img src = {proj2} alt="bs" />
             <div>
               <p></p>
@@ -44,7 +44,7 @@ import proj3 from "./files/ruok.jpg";
             </a>
           </div>
           <div className ="projContainer">
-            <a onClick={()=> window.open("https://www.figma.com/proto/7hbTemmD0qs0wpMmp6togn/CS-3873?node-id=145%3A261&scaling=min-zoom&page-id=145%3A2&starting-point-node-id=145%3A261", "_blank")}>
+            <a href="https://www.figma.com/proto/7hbTemmD0qs0wpMmp6togn/CS-3873?node-id=145%3A261&scaling=min-zoom&page-id=145%3A2&starting-point-node-id=145%3A261">
             <img src = {proj3} alt="ruok" />
             <div>
               <p></p>
