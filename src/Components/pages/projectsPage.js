@@ -17,7 +17,7 @@ import proj3 from "./files/ruok.jpg";
             </h1>
           </div>
           <div className ="projContainer">
-            <a href="http://wildlife-tagger.herokuapp.com/">
+            <a href="http://wildlife-tagger.herokuapp.com/" target="_blank" color="#235789">
             <img src = {proj1} alt="vis" />
             <div>
               <p></p>
@@ -30,7 +30,7 @@ import proj3 from "./files/ruok.jpg";
             </a>
           </div>
           <div className ="projContainer">
-            <a href="https://dwwilson3.github.io/Brain-Tumor-Classification/report_final">
+            <a href="https://dwwilson3.github.io/Brain-Tumor-Classification/report_final" target="_blank" color="#235789">
             <img src = {proj2} alt="bs" />
             <div>
               <p></p>
@@ -44,7 +44,7 @@ import proj3 from "./files/ruok.jpg";
             </a>
           </div>
           <div className ="projContainer">
-            <a href="https://www.figma.com/proto/7hbTemmD0qs0wpMmp6togn/CS-3873?node-id=145%3A261&scaling=min-zoom&page-id=145%3A2&starting-point-node-id=145%3A261">
+            <a href="https://www.figma.com/proto/7hbTemmD0qs0wpMmp6togn/CS-3873?node-id=145%3A261&scaling=min-zoom&page-id=145%3A2&starting-point-node-id=145%3A261" target="_blank" color="#235789">
             <img src = {proj3} alt="ruok" />
             <div>
               <p></p>
