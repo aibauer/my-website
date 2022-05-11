@@ -217,35 +217,61 @@ footer {
     background-color: #FDFFFC;
     border-style: groove none groove none;
     border-color: #235789;
-    height: 400px;
+    height: fit-content;
     position: relative;
 
-    img {
-        position: absolute;
-        max-width: 380px;
-        max-height: 380px;
-        vertical-align: middle;
-        margin-top: 10px;
-        margin-left: 10px;
+    h1{ 
+        line-height: normal;
+        font-size: 24px;
+        margin-top: 15px;
+        text-align:center;
+        background-color: #235789;
+        padding: 20px;
+        color: #FDFFFC;
+        width: 50%;
+        margin-left: auto;
+        margin-right:auto;
+        font-family: Georgia, 'Times New Roman', Times, serif;
     }
-    div {
-        position: absolute;
-        display: inline-block;
+    img {
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 50%;
+        max-height: 400px;
+        display: block;
+    }
+    .collapsible {
+        margin-left: auto;
+        margin-right: auto;
+        background-color: #eee;
+        color: #444;
+        cursor: pointer;
+        padding: 18px;
+        width: 100%;
+        border: none;
+        text-align: center;
+        outline: none;
+        font-size: 15px;
+    }
+    .collapsible:hover {
+        background-color: #ccc;
+    }
+      
+    .content {
+        position: relative;
+        display: block;
         vertical-align: top;
-        margin-left: 400px;
+        margin-left: auto;
+        margin-right:auto;
         max-height: 100%;
-        
+    }
 
-        a {
-            line-height: normal;
-            font-size: 20px;
-            margin-top: 15px;
-        }
         p {
             font-size: 15px;
             line-height: normal;
+            text-align:center;
 
         }
-    }
+    
 
 }
