@@ -13,7 +13,7 @@ import resume from './files/Resume.pdf';
                 <img src={image} alt="profile" />
                 <h1>Andrew Bauer</h1>
                 <p>
-                    Associate Product Intern at American Express | Computer Science Student at Georgia Tech
+                    Product Analyst Intern at American Express | Computer Science Student at Georgia Tech
                 </p>
             </div>
             <div className="contact">
