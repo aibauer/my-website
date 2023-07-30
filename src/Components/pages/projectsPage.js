@@ -52,7 +52,7 @@ import proj3 from "./files/ruok.jpg";
             <img src = {proj3} alt="ruok" />
             </a>
             <div class="content">
-              <p>Mobile application framework prototype for app that provides college-aged students with mental health resources in an easty-to-use, accessible manner</p>
+              <p>Mobile application framework prototype for app that provides college-aged students with mental health resources in an easy-to-use, accessible manner</p>
               <p>Completed user research to outline usability goals of application, performed evaluation on initial prototype, created final prototype using figma</p>
               <p>Final project for Special Topics in HCI course, where we were tasked with creating a home-healthcare technology UI prototype</p>
             </div>
