@@ -13,7 +13,10 @@ import resume from './files/Resume.pdf';
                 <img src={image} alt="profile" />
                 <h1>Andrew Bauer</h1>
                 <p>
-                    Product Analyst Intern at American Express | Computer Science Student at Georgia Tech
+                    Brand Technical Specialist at IBM
+                </p>
+                <p>
+                Georgia Tech Alum
                 </p>
             </div>
             <div className="contact">
@@ -22,7 +25,7 @@ import resume from './files/Resume.pdf';
                         <button onClick={()=> window.open("https://www.linkedin.com/in/andrew-bauer-0451b8199/", "_blank")} className="button" ><span>LinkedIn </span></button>
                     </li>
                     <li>
-                        <button onClick={()=> window.open("mailto:abauer30@gatech.edu")} className="button"><span>Email </span></button>
+                        <button onClick={()=> window.open("mailto:aibauer7@gmail.com")} className="button"><span>Email </span></button>
                     </li>
                     <li classname='last'>
                         <button onClick={()=> window.open(resume)} className="button"><span>Resume </span></button>

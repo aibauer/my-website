@@ -20,9 +20,9 @@ import proj3 from "./files/ruok.jpg";
             <p></p>
             <h1>ATL Wildin'</h1>
             <p></p>
-            <a href="http://wildlife-tagger.herokuapp.com/" target="_blank">
+            
             <img src = {proj1} alt="vis" />
-            </a>
+            
             <div class="content">
               <p>Biodiversity surveying game where users tag presented photos of animals as a means of data collection of biodiversity on Georgia Tech's campus greenspaces</p>
               <p>Developed as a Django web application, using mySQL databases for the animal and image data, with a python backend and an HTML, CSS, and javascript front end</p>
