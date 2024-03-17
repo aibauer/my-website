@@ -13,7 +13,7 @@ import resume from './files/Resume.pdf';
                 <img src={image} alt="profile" />
                 <h1>Andrew Bauer</h1>
                 <p>
-                    Brand Technical Specialist at IBM
+                    Business Automation Solutions Engineer at IBM
                 </p>
                 <p>
                 Georgia Tech Alum
